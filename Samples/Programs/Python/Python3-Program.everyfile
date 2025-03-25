@@ -1,0 +1,4 @@
+UF:|=BIN|{program/Python3+shebang}|goto:end》
+#!/usr/bin/env python3
+print("Hello world")
+break
